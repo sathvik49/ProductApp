@@ -1,1 +1,1 @@
-this simple angular2 app
+simple angular2 application
